@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Karyordey20
-- 👀 I’m interested in web design/developemnt and digital marketting
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate with ready mind developer in bring soemthing great out of the tech world
+- 🌱 Full-stack web developer and digital marketer
+- 💞️ I’m looking to collaborate with ready mind developer across the globe
 - 📫 How to reach me on my whatsapp [+2348071477275]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
