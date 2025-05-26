@@ -8,8 +8,8 @@
 - Front-end
 HTML5 CSS3 SASS TailwindCSS JavaScript TypeScript
 
-Back-end
-NodeJS MongoDB 
+ Back-end
+- NodeJS MongoDB 
 
 🛠 Topics I teach on include:
 1. Fundamentals of Computer Programming,
