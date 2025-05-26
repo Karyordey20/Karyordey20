@@ -2,8 +2,8 @@
 - 🌱 I am a Software Developer who loves participating from building the backend using a Node.js Express server to developing a great UI/UX interface using React.js along with Next.js in TypeScript.
   
 - 💞️  I teach web development as a coding instructor at different Tech Hubs and also mentor newbies to become better developers.
-- 
-- 📫 How to reach me on my whatsapp [+2348071477275]
+  
+- 📫 🛠 My Tech Stack
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
