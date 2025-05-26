@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Karyordey20
-- 🌱 Full-stack web developer and digital marketer
+- 🌱 I am a Software Developer who loves participating from building the backend using a Node.js Express server to developing a great UI/UX interface using React.js along with Next.js in TypeScript.
+- 
 - 💞️ I’m looking to collaborate with ready mind developer across the globe
 - 📫 How to reach me on my whatsapp [+2348071477275]
 - 😄 Pronouns: ...
